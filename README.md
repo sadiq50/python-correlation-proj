@@ -1,2 +1,2 @@
 # python-correlation-proj
-movie correlation proj
+movie correlation, regression and other proj
